@@ -131,7 +131,7 @@ _typgrapghy
     margin-bottom:20px;
     display: inline-block;
     text-align: center;
-    width: 80%;
+    width: 100%;
   }  
 
   p.spotlighticonparagraph span {
@@ -315,6 +315,7 @@ _typgrapghy
     }
     p.spotlighticonparagraph {
       margin-bottom:13px;
+      width:80%;
     }
     .featuredPostSummary h2 {
       font-size: 36px;
