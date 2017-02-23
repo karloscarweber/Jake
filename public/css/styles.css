@@ -293,6 +293,48 @@ _typgrapghy
       margin-left:0px;
     }
   }
+  
+  
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1180px;
+    }
+    .postsummary {
+      max-width: 500px;
+      float:left;
+    }
+    .postsummary .imagesummary {
+      height:280px;
+    }
+    .postsummary:nth-child(odd) {
+      margin-right: 16px; 
+    }
+    .postsummary h3 {
+      font-size: 24px;
+      line-height: 30px;
+    }
+    p.spotlighticonparagraph {
+      margin-bottom:13px;
+      width:80%;
+    }
+    .featuredPostSummary h2 {
+      font-size: 36px;
+      line-height: 45px;
+      margin-bottom: 26px;
+    }
+    .featuredPostSummary h2, .featuredPostSummary p {
+      text-align: left;
+      margin-left: 116px;
+      padding:0px;
+    }
+    .featuredPostSummary .button {
+      /*text-align: left;*/
+      margin-left: 116px;
+      padding:0px;
+    }
+    
+  }
+  
 
   /* Desktop */
   @media (min-width: 1380px) {
