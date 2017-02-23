@@ -62,12 +62,13 @@ _typgrapghy
     height: 50px;
     display: block;
     width:100%;
+    margin-bottom: 4px;
   }
   
   .logo {
     display: block;
     padding: 0px;
-    margin: 4px auto 0px;
+    margin: 0px auto 0px;
     width:100px;
     height:43px;
     background-color: transparent;
