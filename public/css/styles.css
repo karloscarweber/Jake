@@ -26,7 +26,7 @@ _typgrapghy
         }
      
     
-  p, a, p a, h1, h2, h3, h4 {
+  p, a, p a, h1, h2, h3, h4, li {
     font-smoothing: antialiased;
     -webkit-font-smoothing: antialiased;
     font-family:Apercu, sans-serif;
@@ -133,6 +133,8 @@ _typgrapghy
     display: inline-block;
     text-align: center;
     width: 100%;
+    letter-spacing: 1.5px;
+    font-weight:bold;
   }  
 
   p.spotlighticonparagraph span {
@@ -191,6 +193,8 @@ _typgrapghy
     display:inline-block;
     font-size:13px;
     margin:0px 10px;
+    font-family:Apercu, sans-serif;
+    font-weight: normal;
   }
   
   .categories li {
