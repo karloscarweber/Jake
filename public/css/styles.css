@@ -36,7 +36,7 @@ _typgrapghy
   
   /* Global Grid Helper Things */
   .container {
-      padding:10px;
+      padding:0px 10px;
       width:100%;
       display: block;
       margin:0px auto;
@@ -59,16 +59,17 @@ _typgrapghy
   
   /* Header */
   .header {
-    height: 50px;
+    height: 60px;
     display: block;
     width:100%;
-    margin-bottom: 4px;
+    clear: both;
+    display: table;
   }
   
   .logo {
     display: block;
     padding: 0px;
-    margin: 0px auto 0px;
+    margin: 9px auto 0px;
     width:100px;
     height:43px;
     background-color: transparent;
