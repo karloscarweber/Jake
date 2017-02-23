@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="23px" viewBox="0 0 14 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>producticon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-48.000000, -49.000000)" stroke="#F65C5B" stroke-width="1.2">
+            <g id="producticon" transform="translate(49.000000, 50.000000)">
+                <path d="M2.66666667,20.6666667 L9.33333333,20.6666667 C10.8,20.6666667 12,19.4666667 12,18 L12,2.66666667 C12,1.2 10.8,0 9.33333333,0 L2.66666667,0 C1.2,0 0,1.2 0,2.66666667 L0,18 C0,19.4666667 1.2,20.6666667 2.66666667,20.6666667 Z" id="Shape"></path>
+                <ellipse id="Oval" cx="6" cy="18.5" rx="0.833333333" ry="0.833333333"></ellipse>
+                <path d="M10.4,4.66666667 L10.4,15 C10.4,15.7333333 9.872,16.3333333 9.22666667,16.3333333 L2.77333333,16.3333333 C2.128,16.3333333 1.6,15.7333333 1.6,15 L1.6,4.66666667 C1.6,3.93333333 2.128,3.33333333 2.77333333,3.33333333 L9.22666667,3.33828125 C9.872,3.33333333 10.4,3.93333333 10.4,4.66666667 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

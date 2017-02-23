@@ -68,11 +68,11 @@ _typgrapghy
     display: block;
     padding: 0px;
     margin: 4px auto 0px;
-    width:75px;
-    height:32.25px;
+    width:100px;
+    height:43px;
     background-color: transparent;
     background-image:url(../images/logo.svg);
-    background-size: 75px 32.25px;
+    background-size: 100px 43px;
     background-repeat: no-repeat;
   }
   
@@ -148,6 +148,15 @@ _typgrapghy
     background-image:url(../images/camerapink.svg);
     background-size: 25px 18px;
     background-repeat: no-repeat;
+  }
+
+  p.spotlighticonparagraph.product span {
+    margin-right:15px;
+    margin-bottom:-9px;
+    width:15px;
+    height:25px;
+    background-image:url(../images/producticon.svg);
+    background-size: 15px 25px;
   }
   
   .featuredPostSummary h2 {
@@ -243,6 +252,10 @@ _typgrapghy
     font-size:14px;
     line-height:24px;
     margin:12px auto 0px;
+  }
+  .postsummary p.spotlighticonparagraph {
+    font-size:11px;
+    line-height: 13px;
   }
   
   .activities {
