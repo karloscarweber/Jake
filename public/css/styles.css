@@ -69,12 +69,12 @@ _typgrapghy
   .logo {
     display: block;
     padding: 0px;
-    margin: 9px auto 0px;
-    width:100px;
-    height:43px;
+    margin: 14px auto 0px;
+    width:75px;
+    height:32.5px;
     background-color: transparent;
     background-image:url(../images/logo.svg);
-    background-size: 100px 43px;
+    background-size: 75px 32.5px;
     background-repeat: no-repeat;
   }
   
@@ -281,6 +281,26 @@ _typgrapghy
   
   /* Tablet */
   @media (min-width: 768px) {
+    .header {
+      height: 80px;
+      display: block;
+      width:100%;
+      clear: both;
+      display: table;
+    }
+    .logo {
+      display: block;
+      padding: 0px;
+      margin: 20px auto 0px;
+      width:100px;
+      height:43px;
+      background-size: 100px 43px;
+    }
+    .backtosite, .subscribe {
+      line-height: 80px;
+    }
+    
+    
     .container {
       max-width: calc(100% - 30px);
     }
