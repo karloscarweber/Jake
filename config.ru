@@ -16,7 +16,7 @@ run lambda { |env|
 }
 end
 
-map "/experiment1/" do
+map "/article/" do
 run lambda { |env|
   [
     200,
@@ -24,7 +24,7 @@ run lambda { |env|
       'Content-Type'  => 'text/html',
       'Cache-Control' => 'public, max-age=86400'
     },
-    File.open('public/experiment1.html', File::RDONLY),
+    File.open('public/article.html', File::RDONLY),
   ]
 }
 end

@@ -300,7 +300,6 @@ _typgrapghy
       line-height: 80px;
     }
     
-    
     .container {
       max-width: calc(100% - 30px);
     }
@@ -333,7 +332,6 @@ _typgrapghy
       margin-left:0px;
     }
   }
-  
   
   @media (min-width: 1200px) {
     .container {
@@ -438,3 +436,15 @@ _typgrapghy
 .banner5 {background-image:url(../images/banner5.jpg);}
 .banner6 {background-image:url(../images/banner6.jpg);}
 .banner7 {background-image:url(../images/banner7.jpg);}
+
+
+
+
+/* Articles */
+article  {
+  width:calc(100% - 80px);
+  display: block;
+  margin:0px auto;
+}
+
+
